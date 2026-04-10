@@ -45,7 +45,8 @@ public class UniversalDatapack {
                         {
                           "pack": {
                             "description": "Universal Datapack",
-                            "pack_format": 48
+                            "min_format": [101, 1],
+                            "max_format": [101, 1]
                           }
                         }
                         """);
